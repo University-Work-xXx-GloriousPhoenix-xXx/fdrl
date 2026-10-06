@@ -1,4 +1,4 @@
-import fdrl26_rl as rl
+from . import fdrl26_rl as rl
 
 import numpy as np
 import matplotlib.pyplot as plt
