@@ -1,0 +1,8 @@
+gymnasium[classic-control]
+stable-baselines3
+torch
+numpy
+pandas
+matplotlib
+imageio
+jupyter
